@@ -5,7 +5,7 @@ Este documento apresenta os resultados da mineração de Regras de Associação 
 ---
 
 ## TRÍADE PEDAGÓGICA -> TODOS OS TÓPICOS
-**Total de Alunos Únicos:** 91.729
+**Total de Alunos Únicos:** 89.833
 
 ### 🟢 Correlações Positivas (Lift $\geq$ 1.2)
 | # | Regra de Associação (Diagnóstico -> Tópico Textual) | Lift | Suporte | Confiança |
