@@ -16,9 +16,11 @@ A primeira etapa metodológica empregou o algoritmo Latent Dirichlet Allocation 
 * 📄 **[Dicionário de Tópicos e Palavras Mais Frequentes (Bag-of-Words)](https://github.com/samuelsilva/Mestrado_kdmile_data/blob/master/Palavras_por_topico.md)**
 
 ### 2. Mineração de Padrões Interseccionais
-A segunda etapa aplicou o algoritmo FP-Growth para buscar padrões determinísticos entre a "tríade pedagógica" (diagnósticos de múltipla escolha das escolas) e os reais fatores exógenos mapeados no texto. O link a seguir apresenta as regras consolidadas, parametrizadas para contornar o Problema do Item Raro.
+A segunda etapa aplicou o algoritmo FP-Growth para buscar padrões determinísticos entre os diagnósticos estruturados das escolas (incluindo a "tríade pedagógica") e os reais fatores exógenos mapeados no texto. O cruzamento foi estruturado em duas frentes: uma visão global e uma análise segmentada por etapa de ensino, evidenciando como os determinantes da evasão se transformam à medida que o aluno avança no sistema. Todas as regras foram parametrizadas com suporte mínimo rigoroso para contornar o Problema do Item Raro.
 
-* 📄 **[Tabelas de Regras de Associação (Correlações Positivas e Negativas)](https://github.com/samuelsilva/Mestrado_kdmile_data/blob/master/Regras_associacao.md)**
+* 📄 **[Tabelas de Regras de Associação: Tríade X Tópicos, Diagnósticos X Tópicos, Geral ](https://github.com/samuelsilva/Mestrado_kdmile_data/blob/master/Regras_associacao.md)**
+* 📄 **[Tabelas de Regras de Associação: Evolução por Etapa Escolar (Ano a Ano)](https://github.com/samuelsilva/Mestrado_kdmile_data/blob/master/regras_associacao_etapa_ensino.md
+)**
 
 ---
 
